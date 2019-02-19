@@ -8,6 +8,9 @@ This was a quick exercise to see how well React/Redux could work with tile based
  * Randomly generated boards 
  * Sprite map generation
  
+ 
+ Only tested in Chrome due to time. 
+ 
  Feel free to ask any questions at [phuzz_lojik@yahoo.com](mailto:phuzz_lojik@yahoo.com)
  
  Prost!
