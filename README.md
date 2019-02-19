@@ -1,4 +1,17 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+#Tile Based Snake Game 
+by James Gambrell
+
+This was a quick exercise to see how well React/Redux could work with tile based animation in the DOM.  It took about 6 hours to build this and created all the logic from scratch.  Of course given more time, I would have polished this a lot more and added more features. 
+ 
+ Nevertheless, somethings to note:
+ * Layered tiles allowing the ability for the Snake to go back on itself
+ * Randomly generated boards 
+ * Sprite map generation
+ 
+ Feel free to ask any questions at [phuzz_lojik@yahoo.com](mailto:phuzz_lojik@yahoo.com)
+ 
+ Prost!
+ 
 
 ## Available Scripts
 
