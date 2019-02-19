@@ -1,4 +1,4 @@
-#Tile Based Snake Game 
+##Tile Based Snake Game 
 by James Gambrell
 
 This was a quick exercise to see how well React/Redux could work with tile based animation in the DOM.  It took about 6 hours to build this and created all the logic from scratch.  Of course given more time, I would have polished this a lot more and added more features. 
