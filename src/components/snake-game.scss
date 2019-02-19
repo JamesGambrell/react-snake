@@ -1,0 +1,41 @@
+.snake-game {
+  @import url('https://fonts.googleapis.com/css?family=Coiny');
+  font-family: 'Coiny', cursive;
+
+  text-align: center;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  background: orange;
+  width:100%;
+  height:100%;
+  overflow-y: auto;
+;
+  button{
+    font-family: 'Coiny', cursive;
+    padding: .5rem;
+    background-color: red;
+    color: white;
+    transition: all .125s;
+    -webkit-border-radius: 8px;
+    -moz-border-radius: 8px;
+    border-radius: 8px;
+    border-color: white;
+    border-style: groove;
+    margin: 1rem;
+    &:hover{
+        color:red;
+        background-color: white;
+        cursor: pointer;
+        border-color: red;
+    }
+
+
+  }
+
+  .game-container {
+    width: 480px;
+    height: 480px;
+    position: relative;
+  }
+}

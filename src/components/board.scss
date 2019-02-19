@@ -1,0 +1,25 @@
+.board{
+  background: darkgreen;
+  width: 100%;
+  height: 100%;
+  display: grid;
+  tr{
+    display: flex;
+  }
+
+  td{
+    flex: 0 0 0;
+    display: flex;
+    overflow: hidden;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    padding:0;
+    img {
+      position: absolute;
+      object-fit: none;
+      height: 100%;
+      width: 100%;
+    }
+  }
+}
